@@ -24,4 +24,4 @@ d   average duration of calls (in seconds)
 
 Example:
 
-![alt text](https://github.com/alexandre10044/203unsold/blob/master/example.png?raw=true)
+![alt text](https://github.com/alexandre10044/203hotline/blob/master/example.png?raw=true)
